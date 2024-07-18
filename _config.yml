@@ -26,8 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD Student at the University of Michigan"
   location         : "Ann Arbor, MI"
-  employer         : #"Univeristy of Michigan"
-  uri              : # URL
+  employer         : 
+  uri              : 
   email            : "anacsb@umich.edu" 
 
   # Academic websites
