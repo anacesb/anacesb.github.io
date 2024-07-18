@@ -61,5 +61,6 @@ author_profile: true
 * <b>Saavedra, A. C.</b>, Zvietcovich, F., Lavarello, R. J., & Castaneda, B. (2017, July). <br>[Measurement of surface acoustic waves in high-frequency ultrasound: Preliminary results](https://ieeexplore.ieee.org/abstract/document/8037488)<br>. In <em>2017 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)</em> (pp. 3000-3003). IEEE.
 
 <b>Thesis</b>
+=========
 * <b>Saavedra Bazán, A. C.</b> (2018). <br>[Characterization of healthy skin with high-frequency ultrasound using quantitative ultrasound.](https://alicia.concytec.gob.pe/vufind/Record/RPUC_6ca30050083218cd5a7a7203d6aebd11)<br>
 * <b> Saavedra Bazán, A. C.</b> <br>[Comparación de técnicas de elastografía cuantitativa basadas en vibración mecánica externa en equipos ultrasónicos de investigación con diferentes rangos de frecuencia.](https://tesis.pucp.edu.pe/repositorio/handle/20.500.12404/6464)<br>
