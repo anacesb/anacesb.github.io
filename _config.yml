@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ana Cecilia Saavedra Bazan / Site Title"
+title                    : "Ana Cecilia Saavedra Bazan"
 title_separator          : "-"
 name                     : &name "Ana C. Saavedra Bazan"
 description              : &description "personal description"
@@ -25,10 +25,10 @@ author:
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Ann Arbor, MI"
+  employer         : "Univeristy of Michigan"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "anacsb@umich.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
