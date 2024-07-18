@@ -13,7 +13,7 @@ author_profile: true
 
 <b>Chapters</b>
 ======
-* Liu, Z., Wang, X., <b>Bazan, A. C. S.</b>, & Cao, J. (2023). <br>[Interoceptive influences on resting-state fMRI] (https://www.sciencedirect.com/science/article/pii/B9780323916882000151)<br>. In <em>Advances in Resting-State Functional MRI </em>(pp. 87-105). <em>Academic Press</em>.
+* Liu, Z., Wang, X., <b>Bazan, A. C. S.</b>, & Cao, J. (2023). <br>[Interoceptive influences on resting-state fMRI](https://www.sciencedirect.com/science/article/pii/B9780323916882000151)<br>. In <em>Advances in Resting-State Functional MRI </em>(pp. 87-105). <em>Academic Press</em>.
 
 <b>Journal</b>
 ======
