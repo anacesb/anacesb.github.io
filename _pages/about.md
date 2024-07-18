@@ -9,4 +9,10 @@ redirect_from:
 ---
 
 
-I'm a PhD student in Biomedical Engineering working under the guidance of Prof. Nicole Seiberlich. I hold a Bachelor's degree in Electrical Engineering and a Master's degree in Digital Signal and Image Processing from Pontificia Universidad Católica del Perú. My research interests lie at the intersection of signal and image processing, medical imaging, ultrasound, magnetic resonance imaging, quantitative tissue characterization, and machine learning.
+I'm a PhD student in Biomedical Engineering working under the guidance of Dr. Nicole Seiberlich in the Michigan Institute for Imaging Technology and Translation (MIITT). I work in pulse sequence development, image reconstruction and analysis.  
+
+
+Short biography
+---------------
+
+I hold a Bachelor's degree in Electrical Engineering and a Master's degree in Digital Signal and Image Processing from Pontificia Universidad Católica del Perú. My research interests involve signal and image processing, medical imaging, image acquisition, image reconstruction, quantitative tissue characterization, and machine learning.
