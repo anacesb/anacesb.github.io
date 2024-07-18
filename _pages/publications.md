@@ -15,7 +15,7 @@ author_profile: true
 ======
 * Liu, Z., Wang, X., <b>Bazan, A. C. S.</b>, & Cao, J. (2023). <br>[Interoceptive influences on resting-state fMRI](https://www.sciencedirect.com/science/article/pii/B9780323916882000151)<br>. In <em>Advances in Resting-State Functional MRI </em>(pp. 87-105). <em>Academic Press</em>.
 
-<b>Journal</b>
+<b>Journals</b>
 ======
 * <b>Saavedra, A. C.</b>, Arroyo, J., Flores, G., Zvietcovich, F., Castaneda, B., & Lavarello, R. J. (2022). <br>[Viscoelastic characterization of in vivo human dermis using high-frequency ultrasonic crawling wave elastography](https://ieeexplore.ieee.org/abstract/document/9755141)<br>. <em>IEEE Access</em>, 10, 40571-40578.
 
