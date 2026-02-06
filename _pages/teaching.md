@@ -8,7 +8,7 @@ author_profile: true
 
 <b>At University of Michigan</b>
 ======
-* Engineering Teaching Consultant (ETC): Michigan Engineering, Fall 2025.
+* Engineering Teaching Consultant (ETC): Michigan Engineering, Fall 2025 - Present.
 * Graduate Student Instructor: (BIOMEDE 458) Biomedical Instrumentation and Design, Fall 2023.
 
 <b>At Universisidad de Ingenieria y Tecnologia</b>
