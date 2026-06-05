@@ -31,18 +31,18 @@ author_profile: true
   
 <b>Conference Abstracts</b>
 ======
-* <b>Saavedra, A.C.</b>, Kaplan, S., Liu, Z., Richardson, J., Madamanchi, C., Hamilton, J., & Seiberlich, N. <br>[Spiral Trajectory Design and DIP Reconstruction for High-Resolution Cardiac MRF of the Atria.](https://echo.ismrm.org/program/SEDONA26)<br> In <em>ISMRM Workshop on Data Sampling & Image Reconstruction</em>, Sedona, AZ, January 2026.
+* <b>Saavedra, A.C.</b>, Kaplan, S., Liu, Z., Richardson, J., Madamanchi, C., Hamilton, J., & Seiberlich, N. <br>[Spiral Trajectory Design and DIP Reconstruction for High-Resolution Cardiac MRF of the Atria.](https://echo.ismrm.org/program/SEDONA26)<br> In <em>ISMRM Workshop on Data Sampling & Image Reconstruction</em>, Sedona, AZ, January 2026. (Traditional Poster)
 
-* <b>Saavedra, A.C.</b>, Kaplan, S., Liu, Z., Richardson, J., Madamanchi, C., Hamilton, J., & Seiberlich, N. <br>[High-Resolution 2D Cardiac MR Fingerprinting for Atrial Wall Assessment.](https://echo.ismrm.org/program/ISMRM2026/at-a-glance/session/702)<br> In <em>International Society for Magnetic Resonance in Medicine (ISMRM) 33rd annual meeting</em>.
+* <b>Saavedra, A.C.</b>, Kaplan, S., Liu, Z., Richardson, J., Madamanchi, C., Hamilton, J., & Seiberlich, N. <br>[High-Resolution 2D Cardiac MR Fingerprinting for Atrial Wall Assessment.](https://echo.ismrm.org/program/ISMRM2026/at-a-glance/session/702)<br> In <em>International Society for Magnetic Resonance in Medicine (ISMRM) 33rd annual meeting</em>. (Power Pitch + Traditional Poster)
   
-* <b>Saavedra, A.C.</b>, Hamilton, J., Kaplan, S., Rajagopalan, S., Rashid, I., & Seiberlich, N. <br>[Differentiating Myocardial Scar and Viable Myocardium without Gadolinium Contrast using Native Cardiac MRF Maps and Synthetic Images.](https://submissions.mirasmart.com/ISMRM2024/Itinerary/ConferenceMatrixEventDetail.aspx?ses=D-60)<br> In <em>International Society for Magnetic Resonance in Medicine (ISMRM) 31st annual meeting</em>.
+* <b>Saavedra, A.C.</b>, Hamilton, J., Kaplan, S., Rajagopalan, S., Rashid, I., & Seiberlich, N. <br>[Differentiating Myocardial Scar and Viable Myocardium without Gadolinium Contrast using Native Cardiac MRF Maps and Synthetic Images.](https://submissions.mirasmart.com/ISMRM2024/Itinerary/ConferenceMatrixEventDetail.aspx?ses=D-60)<br> In <em>International Society for Magnetic Resonance in Medicine (ISMRM) 31st annual meeting</em>. (Digital Poster)
   
-* Alkaabi, F. M., Cao, J., Yee, A., Wang, X., Scheven, U., Tsai, C.H., <b>Saavedra, A. C.</b>, & Liu, Z. <br>[Targeted Gastric Electrical Stimulation Modulates Functional Connectivity of the Interoceptive Network in the Rat Brain.](https://submissions.mirasmart.com/ISMRM2023/Itinerary/ConferenceMatrixEventDetail.aspx?ses=PP-02)<br> In <em>International Society for Magnetic Resonance in Medicine (ISMRM) 30th annual meeting</em>.
+* Alkaabi, F. M., Cao, J., Yee, A., Wang, X., Scheven, U., Tsai, C.H., <b>Saavedra, A. C.</b>, & Liu, Z. <br>[Targeted Gastric Electrical Stimulation Modulates Functional Connectivity of the Interoceptive Network in the Rat Brain.](https://submissions.mirasmart.com/ISMRM2023/Itinerary/ConferenceMatrixEventDetail.aspx?ses=PP-02)<br> In <em>International Society for Magnetic Resonance in Medicine (ISMRM) 30th annual meeting</em>. (Power Pitch + Digital Poster)
 
-* Wang, X., Cao, J., Han, K., Choi, M., <b>Saavedra, A. C.</b>, Nielsen, J.F., Noll, D. C., & Liu, Z. <br>[Mapping human gastric motility using contrast-enhanced MRI with a natural test meal.](https://submissions.mirasmart.com/ISMRM2023/Itinerary/ConferenceMatrixEventDetail.aspx?ses=O-16)<br> In <em>International Society for Magnetic Resonance in Medicine (ISMRM) 30th annual meeting</em>.
+* Wang, X., Cao, J., Han, K., Choi, M., <b>Saavedra, A. C.</b>, Nielsen, J.F., Noll, D. C., & Liu, Z. <br>[Mapping human gastric motility using contrast-enhanced MRI with a natural test meal.](https://submissions.mirasmart.com/ISMRM2023/Itinerary/ConferenceMatrixEventDetail.aspx?ses=O-16)<br> In <em>International Society for Magnetic Resonance in Medicine (ISMRM) 30th annual meeting</em>. (Oral)
 
 * Toscano, M., Arroyo, J., <b>Saavedra, A. C.</b>, Marini, T. J., Baran, T. M., Drennan, K., ... & Castaneda, B. (2022).
-<br> [Testing a deep learning algorithm for automatic detection of prenatal ultrasound for under-resourced communities.](https://www.ajog.org/article/S0002-9378(21)01792-0/fulltext)<br> <em>American Journal of Obstetrics & Gynecology</em>, 226(1), S353-S354.
+<br> [Testing a deep learning algorithm for automatic detection of prenatal ultrasound for under-resourced communities.](https://www.ajog.org/article/S0002-9378(21)01792-0/fulltext)<br> <em>American Journal of Obstetrics & Gynecology</em>, 226(1), S353-S354. (Oral)
 
 <b>Conference Proceedings</b>
 ======
