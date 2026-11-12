@@ -14,9 +14,5 @@ News
 ----
 
 * **May 2026** — Power pitch and poster at ISMRM 2026: [High-Resolution 2D Cardiac MR Fingerprinting for Atrial Wall Assessment](https://echo.ismrm.org/program/ISMRM2026/at-a-glance/session/702).
+* **Apr 2026** — Received the P.E.O. International Peace Scholarship (2026–2027).
 * **Jan 2026** — Poster at the ISMRM Sedona workshop: [Spiral Trajectory Design and DIP Reconstruction for High-Resolution Cardiac MRF of the Atria](https://echo.ismrm.org/program/SEDONA26).
-
-Short biography
----------------
-
-I received my Bachelor’s degree in Electrical Engineering and Master’s degree in Digital Signal and Image Processing from [Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/). My broader research interests include signal and image processing, medical imaging systems, image acquisition and reconstruction, quantitative tissue characterization, and artificial intelligence for healthcare.
