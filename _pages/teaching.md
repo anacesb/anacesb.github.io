@@ -11,13 +11,13 @@ author_profile: true
 * [Engineering Teaching Consultant (ETC)](https://crlte.engin.umich.edu/etc/): Michigan Engineering, Fall 2025 - July 2026.
 * Graduate Student Instructor: (BIOMEDE 458) Biomedical Instrumentation and Design, Fall 2023.
 
-<b>At Universisidad de Ingenieria y Tecnologia</b>
+<b>At Universisidad de Ingenieria y Tecnología (UTEC)</b>
 ======
 * Adjunct Professor: Biomedical Image Processing 
 * Adjunct Professor: Interdisciplinary Project II, Fall 2020 – Spring 2021.
 * Adjunct Professor: Interdisciplinary Project III, Fall 2020 – Spring 2021.
 
-<b>At Pontificia Universidad Catolica del Peru</b>
+<b>At Pontificia Universidad Catolica del Perú (PUCP)</b>
 ======
 * Teaching Assistant: (IEE352) Digital Signal Processing, Fall 2016 – Spring 2021.
 * Teaching Assistant: (IEE239) Digital Signal and Image Processing, Spring 2017 – Fall 2020.
