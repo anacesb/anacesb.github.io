@@ -11,38 +11,27 @@ author_profile: true
 
 {% include base_path %}
 
-<b>Book Chapters</b>
-======
-* Liu, Z., Wang, X., <b>Bazan, A. C. S.</b>, & Cao, J. (2023). <br>[Interoceptive influences on resting-state fMRI.](https://www.sciencedirect.com/science/article/pii/B9780323916882000151)<br> In <em>Advances in Resting-State Functional MRI </em>(pp. 87-105). <em>Academic Press</em>.
+<b>Conference Abstracts</b>
+=====
+<b>Saavedra, A.C.</b>, Kaplan, S., Liu, Z., Richardson, J., Madamanchi, C., Hamilton, J., & Seiberlich, N. (2026). <br>Spiral Trajectory Design and DIP Reconstruction for High-Resolution Cardiac MRF of the Atria.<br> In <em>ISMRM Workshop on Data Sampling & Image Reconstruction</em>, Sedona, AZ, January 2026. (Traditional Poster)
+<b>Saavedra, A.C.</b>, Kaplan, S., Liu, Z., Richardson, J., Madamanchi, C., Hamilton, J., & Seiberlich, N. (2026). <br>High-Resolution 2D Cardiac MR Fingerprinting for Atrial Wall Assessment.<br> In <em>International Society for Magnetic Resonance in Medicine (ISMRM) 33rd annual meeting</em>. (Power Pitch + Traditional Poster)
+<b>Saavedra, A.C.</b>, Hamilton, J., Kaplan, S., Rajagopalan, S., Rashid, I., & Seiberlich, N. (2024). <br>Differentiating Myocardial Scar and Viable Myocardium without Gadolinium Contrast using Native Cardiac MRF Maps and Synthetic Images.<br> In <em>International Society for Magnetic Resonance in Medicine (ISMRM) 31st annual meeting</em>. (Digital Poster)
+Alkaabi, F. M., Cao, J., Yee, A., Wang, X., Scheven, U., Tsai, C.H., <b>Saavedra, A. C.</b>, & Liu, Z. (2023). <br>Targeted Gastric Electrical Stimulation Modulates Functional Connectivity of the Interoceptive Network in the Rat Brain.<br> In <em>International Society for Magnetic Resonance in Medicine (ISMRM) 30th annual meeting</em>. (Power Pitch + Digital Poster)
+Wang, X., Cao, J., Han, K., Choi, M., <b>Saavedra, A. C.</b>, Nielsen, J.F., Noll, D. C., & Liu, Z. (2023). <br>Mapping human gastric motility using contrast-enhanced MRI with a natural test meal.<br> In <em>International Society for Magnetic Resonance in Medicine (ISMRM) 30th annual meeting</em>. (Oral)
+Toscano, M., Arroyo, J., <b>Saavedra, A. C.</b>, Marini, T. J., Baran, T. M., Drennan, K., ... & Castaneda, B. (2022). <br>Testing a deep learning algorithm for automatic detection of prenatal ultrasound for under-resourced communities.<br> <em>American Journal of Obstetrics & Gynecology</em>, 226(1), S353-S354. (Oral)
+
 
 <b>Journals</b>
-======
-* <b>Saavedra, A. C.</b>, Arroyo, J., Flores, G., Zvietcovich, F., Castaneda, B., & Lavarello, R. J. (2022). <br>[Viscoelastic characterization of in vivo human dermis using high-frequency ultrasonic crawling wave elastography.](https://ieeexplore.ieee.org/abstract/document/9755141)<br> <em>IEEE Access</em>, 10, 40571-40578.
+=====
+<b>Saavedra, A. C.</b>, Arroyo, J., Flores, G., Zvietcovich, F., Castaneda, B., & Lavarello, R. J. (2022). <br>Viscoelastic characterization of in vivo human dermis using high-frequency ultrasonic crawling wave elastography.<br> <em>IEEE Access</em>, 10, 40571-40578.
+Arroyo, J., Marini, T. J., <b>Saavedra, A. C.</b>, Toscano, M., Baran, T. M., Drennan, K., ... & Castaneda, B. (2022). <br>No sonographer, no radiologist: New system for automatic prenatal detection of fetal biometry, fetal presentation, and placental location.<br> <em>PloS one</em>, 17(2), e0262107.
+<b>Saavedra, A. C.</b>, Valencia, B. M., Tueros, P., Wortsman, X., Llanos-Cuentas, A., & Lavarello, R. J. (2020). <br>Ultrasonographic characteristics of cutaneous leishmaniasis.<br> <em>Journal of the European Academy of Dermatology and Venereology: JEADV</em>, 34(4), e193.
+Torres, F. G., & <b>Saavedra, A. C.</b> (2020). <br>A comparison between the failure modes observed in biological and synthetic polymer nanocomposites.<br> <em>Polymer-Plastics Technology and Materials</em>, 59(3), 241-270.
+Torres, F. G., Rodriguez, S., & <b>Saavedra, A. C.</b> (2019). <br>Green composite materials from biopolymers reinforced with agroforestry waste.<br> <em>Journal of Polymers and the Environment</em>, 27, 2651-2673.
 
-* Arroyo, J., Marini, T. J., <b>Saavedra, A. C.</b>, Toscano, M., Baran, T. M., Drennan, K., ... & Castaneda, B. (2022). <br>[No sonographer, no radiologist: New system for automatic prenatal detection of fetal biometry, fetal presentation, and placental location.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262107)<br> <em>PloS one</em>, 17(2), e0262107.
-
-* Toscano, M., Arroyo, J.,<b> Saavedra, A. C.</b>, Marini, T. J., Baran, T. M., Drennan, K., ... & Castaneda, B. (2022). <br>[Testing a deep learning algorithm for automatic detection of prenatal ultrasound for under-resourced communities.](https://www.ajog.org/article/S0002-9378(21)01792-0/fulltext)<br> <em>American Journal of Obstetrics & Gynecology</em>, 226(1), S353-S354.
-
-* <b>Saavedra, A. C.</b>, Valencia, B. M., Tueros, P., Wortsman, X., Llanos-Cuentas, A., & Lavarello, R. J. (2020). <br>[Ultrasonographic characteristics of cutaneous leishmaniasis.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7113088/)<br> <em>Journal of the European Academy of Dermatology and Venereology: JEADV</em>, 34(4), e193.
-  
-* Torres, F. G., & <b>Saavedra, A. C</b>. (2020). <br>[A comparison between the failure modes observed in biological and synthetic polymer nanocomposites.](https://www.tandfonline.com/doi/full/10.1080/25740881.2019.1625397)<br> <em>Polymer-Plastics Technology and Materials</em>, 59(3), 241-270.
-
-* Torres, F. G., Rodriguez, S., & <b>Saavedra, A. C</b>. (2019). <br>[Green composite materials from biopolymers reinforced with agroforestry waste.](https://link.springer.com/article/10.1007/s10924-019-01561-5)<br> <em>Journal of Polymers and the Environment</em>, 27, 2651-2673.
-  
-<b>Conference Abstracts</b>
-======
-* <b>Saavedra, A.C.</b>, Kaplan, S., Liu, Z., Richardson, J., Madamanchi, C., Hamilton, J., & Seiberlich, N. <br>[Spiral Trajectory Design and DIP Reconstruction for High-Resolution Cardiac MRF of the Atria.](https://echo.ismrm.org/program/SEDONA26)<br> In <em>ISMRM Workshop on Data Sampling & Image Reconstruction</em>, Sedona, AZ, January 2026. (Traditional Poster)
-
-* <b>Saavedra, A.C.</b>, Kaplan, S., Liu, Z., Richardson, J., Madamanchi, C., Hamilton, J., & Seiberlich, N. <br>[High-Resolution 2D Cardiac MR Fingerprinting for Atrial Wall Assessment.](https://echo.ismrm.org/program/ISMRM2026/at-a-glance/session/702)<br> In <em>International Society for Magnetic Resonance in Medicine (ISMRM) 33rd annual meeting</em>. (Power Pitch + Traditional Poster)
-  
-* <b>Saavedra, A.C.</b>, Hamilton, J., Kaplan, S., Rajagopalan, S., Rashid, I., & Seiberlich, N. <br>[Differentiating Myocardial Scar and Viable Myocardium without Gadolinium Contrast using Native Cardiac MRF Maps and Synthetic Images.](https://submissions.mirasmart.com/ISMRM2024/Itinerary/ConferenceMatrixEventDetail.aspx?ses=D-60)<br> In <em>International Society for Magnetic Resonance in Medicine (ISMRM) 31st annual meeting</em>. (Digital Poster)
-  
-* Alkaabi, F. M., Cao, J., Yee, A., Wang, X., Scheven, U., Tsai, C.H., <b>Saavedra, A. C.</b>, & Liu, Z. <br>[Targeted Gastric Electrical Stimulation Modulates Functional Connectivity of the Interoceptive Network in the Rat Brain.](https://submissions.mirasmart.com/ISMRM2023/Itinerary/ConferenceMatrixEventDetail.aspx?ses=PP-02)<br> In <em>International Society for Magnetic Resonance in Medicine (ISMRM) 30th annual meeting</em>. (Power Pitch + Digital Poster)
-
-* Wang, X., Cao, J., Han, K., Choi, M., <b>Saavedra, A. C.</b>, Nielsen, J.F., Noll, D. C., & Liu, Z. <br>[Mapping human gastric motility using contrast-enhanced MRI with a natural test meal.](https://submissions.mirasmart.com/ISMRM2023/Itinerary/ConferenceMatrixEventDetail.aspx?ses=O-16)<br> In <em>International Society for Magnetic Resonance in Medicine (ISMRM) 30th annual meeting</em>. (Oral)
-
-* Toscano, M., Arroyo, J., <b>Saavedra, A. C.</b>, Marini, T. J., Baran, T. M., Drennan, K., ... & Castaneda, B. (2022).
-<br> [Testing a deep learning algorithm for automatic detection of prenatal ultrasound for under-resourced communities.](https://www.ajog.org/article/S0002-9378(21)01792-0/fulltext)<br> <em>American Journal of Obstetrics & Gynecology</em>, 226(1), S353-S354. (Oral)
+<b>Book Chapters</b>
+====
+Liu, Z., Wang, X., <b>Bazan, A. C. S.</b>, & Cao, J. (2023). <br>Interoceptive influences on resting-state fMRI.<br> In <em>Advances in Resting-State Functional MRI </em>(pp. 87-105). <em>Academic Press</em>.
 
 <b>Conference Proceedings</b>
 ======
