@@ -13,7 +13,7 @@ I am a PhD candidate in [Biomedical Engineering](https://bme.umich.edu/) and [Sc
 News
 ----
 
-* **2026** — Power pitch and poster at ISMRM 2026: [High-Resolution 2D Cardiac MR Fingerprinting for Atrial Wall Assessment](https://echo.ismrm.org/program/ISMRM2026/at-a-glance/session/702).
+* **May 2026** — Power pitch and poster at ISMRM 2026: [High-Resolution 2D Cardiac MR Fingerprinting for Atrial Wall Assessment](https://echo.ismrm.org/program/ISMRM2026/at-a-glance/session/702).
 * **Jan 2026** — Poster at the ISMRM Sedona workshop: [Spiral Trajectory Design and DIP Reconstruction for High-Resolution Cardiac MRF of the Atria](https://echo.ismrm.org/program/SEDONA26).
 
 Short biography
