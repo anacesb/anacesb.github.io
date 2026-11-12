@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Ana Cecilia Saavedra Bazan"
 title_separator          : "-"
 name                     : &name "Ana C. Saavedra Bazan"
-description              : &description "personal description"
+description              : &description "Ana C. Saavedra Bazan — PhD candidate at the University of Michigan working on cardiac MRI: pulse sequences, non-Cartesian reconstruction, MR fingerprinting, and machine learning."
 url                      : https://anacesb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "anacesb.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "photo_ana.JPG"
   name             : "Ana C. Saavedra Bazan"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student at the University of Michigan"
+  bio              : "PhD Candidate, Biomedical Engineering & Scientific Computing, University of Michigan"
   location         : "Ann Arbor, MI"
   employer         : 
   uri              : 
