@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 {% include base_path %}
+
+My current research develops fast, high-resolution quantitative cardiac MRI, with a focus on the atria and on contrast-free myocardial tissue characterization, combining MR Fingerprinting, image reconstruction, and deep learning.
 <!---
 High-resolution cardiac MR Fingerprinting of the atria
 ------
