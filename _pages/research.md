@@ -26,6 +26,7 @@ Late gadolinium enhancement (LGE) is the clinical standard for detecting myocard
 
 *Related work:* [ISMRM 2024 (digital poster)](https://submissions.mirasmart.com/ISMRM2024/Itinerary/ConferenceMatrixEventDetail.aspx?ses=D-60)
 -->
+
 Previous research
 ------
 
